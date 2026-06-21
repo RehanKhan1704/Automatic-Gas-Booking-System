@@ -21,8 +21,8 @@ Please follow the below steps to run this project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Shksaadd07/rcoeprj-83-1206-1363-group4.git
-   cd rcoeprj-83-1206-1363-group4
+   git clone https://github.com/RehanKhan1704/Automatic-Gas-Booking-System.git
+   cd Automatic-Gas-Booking-System
 2. **Install Dependencies Make sure you have Node.js and npm installed.**
    ```bash
       npm install
