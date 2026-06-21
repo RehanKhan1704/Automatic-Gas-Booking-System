@@ -30,9 +30,14 @@ Please follow the below steps to run this project:
       npm install
       npm run dev  # runs on http://localhost:5173
 
+   Use one backend :
+    backend-node(Mongodb):
       cd backend-node
       npm install
       npm run dev
+    backend-python(in-memory db)
+      pip install -r requirement.txt
+      python app.py
    
 ## Subject Details
 Class: TE (COMP) Div A - 2024-2025
