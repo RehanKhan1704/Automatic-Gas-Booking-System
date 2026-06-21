@@ -23,14 +23,17 @@ Please follow the below steps to run this project:
    ```bash
    git clone https://github.com/RehanKhan1704/Automatic-Gas-Booking-System.git
    cd Automatic-Gas-Booking-System
-2. **Install Dependencies Make sure you have Node.js and npm installed.**
+2. **Install Dependencies and Run the Application Make sure you have Node.js and npm installed.**
    ```bash
+      cd frontend
+      npm create vite@latest . -- --template react
       npm install
+      npm run dev  # runs on http://localhost:5173
+
+      cd backend-node
+      npm install
+      npm run dev
    
-3. **Run the Application**
-   ```bash
-      npm start
-  
 ## Subject Details
 Class: TE (COMP) Div A - 2024-2025
 
@@ -42,8 +45,6 @@ Project Type: Mini Project
     Node.js
     
     Express.js
-    
-    TensorFlow.js
     
     MongoDB
     
